@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-05-09T16:41:14 IST" name="Suite" finished-at="2021-05-09T16:41:14 IST" duration-ms="92">
+  <suite started-at="2021-10-04T22:37:25 IST" name="Suite" finished-at="2021-10-04T22:37:25 IST" duration-ms="61">
     <groups>
     </groups>
-    <test started-at="2021-05-09T16:41:14 IST" name="Test" finished-at="2021-05-09T16:41:14 IST" duration-ms="92">
+    <test started-at="2021-10-04T22:37:25 IST" name="Test" finished-at="2021-10-04T22:37:25 IST" duration-ms="61">
       <class name="com.base.ClassTestRun">
-        <test-method signature="MavenTestRun()[pri:0, instance:com.base.ClassTestRun@7c83dc97]" started-at="2021-05-09T16:41:14 IST" name="MavenTestRun" finished-at="2021-05-09T16:41:14 IST" duration-ms="15" status="PASS">
+        <test-method signature="MavenTestRun()[pri:0, instance:com.base.ClassTestRun@50caa560]" started-at="2021-10-04T22:37:25 IST" name="MavenTestRun" finished-at="2021-10-04T22:37:25 IST" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MavenTestRun -->
